@@ -3,6 +3,8 @@ Mechanics and electronics to upgrade a low cost bike light
 
 [Picture](https://drive.google.com/open?id=0B5_mAlpV8IjvaUxYX0pKT2tOTkk)
 
+<iframe src="https://drive.google.com/file/d/0B5_mAlpV8IjvaUxYX0pKT2tOTkk/preview" width="640" height="480"></iframe>
+
 The bike light exists in two versions:
 * [Cree XML-T6 (1800 lm) light](https://www.aliexpress.com/item/1800-Lumen-Super-Bright-XML-T6-LED-Bike-Light-Headlamp-IP65-Waterproof-3-Mode-LED-Bicycle/32698975455.html)
 * [3W, 800 lm light (battery powered)](https://www.aliexpress.com/item/Waterproof-800LM-3W-Outdoor-Sport-Bike-Bicycle-Light-Headlight-Headlamp-High-Quality-New/32573540736.html)
